@@ -24,6 +24,7 @@ function nowServing(line) {
   }
 }
 
+var (i=0; i++);
 function takeANumber(line, name){
   line.push(name);
   
